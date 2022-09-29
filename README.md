@@ -27,17 +27,31 @@ converted datatype, we are creating a set of visualizations to:
 ## Results
 
 ![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Top%20Starting%20Location.png)
+This visualization shows that the most popular starting locations concentrated on Manhattan. And it's
+predictable because Manhattan is the most densely populated of New York City’s 5 boroughs. And a lot of tourist
+visit this area every day.  
 
 ![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/August%20Peak%20Hours.png)
+The most frequent use of bicycles occurs from 5 p.m. to 7 p.m.  
 
 ![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Check%20out%20times%20for%20users.png)
+The most popular trip duration is less then 10 minutes.  
 
 ![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Check%20out%20times%20by%20gender.png)
+The most popular trip duration keeps the same pattern irrespective of gender.  
 
 ![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20for%20Each%20Hour.png)
+This visualization convinces us that bicycles are not only used by tourists. Bike sharing peaks are when people travel to and
+from work.
+
 
 ![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Trips%20by%20Gender_Weekday%20per%20Hour.png)
+The same pattern for number of bike trips for each hour of each day of the week we can observe irrespective of gender.  
 
 ![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png)
+On this visualization we can make a conclusion that the most common customers of Citi Bike are male subscribers.  
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+In addition, it would make sense to find data to compare tourist traffic in both cities (New York and Des Moines) to predict
+whether the usege of a bike is the same or different and in which way, if it's different.
