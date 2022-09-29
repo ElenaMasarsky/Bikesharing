@@ -26,7 +26,7 @@ converted datatype, we are creating a set of visualizations to:
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
-![pic](Resources/Top Starting Location.png)
+![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Top%20Starting%20Location.png)
 
 ![pic](Resources/August Peak Hours.png)
 
