@@ -24,20 +24,20 @@ converted datatype, we are creating a set of visualizations to:
 * Show the number of bike trips for all riders and genders for each hour of each day of the week;  
 * Show the number of bike trips for each type of user and gender for each day of the week.  
 
-## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Results
 
 ![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Top%20Starting%20Location.png)
 
-![pic](Resources/August Peak Hours.png)
+![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/August%20Peak%20Hours.png)
 
-![pic](Resources/Check out times for users.png)
+![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Check%20out%20times%20for%20users.png)
 
-![pic](Resources/Check out times by gender.png)
+![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Check%20out%20times%20by%20gender.png)
 
-![pic](Resources/Trips by Weekday for Each Hour.png)
+![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
-![pic](Resources/Trips by Gender_Weekday per Hour.png)
+![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/Trips%20by%20Gender_Weekday%20per%20Hour.png)
 
-![pic](Resources/User Trips by Gender by Weekday.png)
+![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
