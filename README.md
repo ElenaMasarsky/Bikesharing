@@ -51,7 +51,14 @@ The same pattern for number of bike trips for each hour of each day of the week 
 ![pic](https://github.com/ElenaMasarsky/Bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png)
 On this visualization we can make a conclusion that the most common customers of Citi Bike are male subscribers.  
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary two additional visualizations that you would perform with the given
+dataset.
+
+Summing up our analysis, we can draw the following conclusions. In August Citi Bike processed 2,344,224 rides in New York. 81% of
+these rides were mada by subscribers. 65% of rides completed by male. More trips took place before and after work time during the
+week days, and during weekends we observe a lot of rides through the day time.
+I would suggest to perform two additional visualizations of August peak hours by customer's type to see if there's some
+difference in bike sharing usage for subscribers and occasional customers.
 
 In addition, it would make sense to find data to compare tourist traffic in both cities (New York and Des Moines) to predict
-whether the usege of a bike is the same or different and in which way, if it's different.
+whether the usege of a bikes is going to be the same or different and in which way, if it's different.
