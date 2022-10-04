@@ -1,5 +1,7 @@
 # Bikesharing
 
+https://public.tableau.com/views/CitiBikeChallenge_16629291814030/NYCBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Overview of the analysis
 Last summer Kate and her friend took the trip of a lifetime. New York City for two full weeks exploring historic landmarks
 like Central Park, the Statue of Liberty, and the Empire State Building.
